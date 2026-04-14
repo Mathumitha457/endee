@@ -137,3 +137,27 @@ If you offer a hosted or managed service based on this software, you must use yo
 ## Third-Party Software
 
 This project includes or depends on third-party software components licensed under their respective open-source licenses. Use of those components is governed by their own license terms.
+
+---
+
+# AI Chatbot Project (Added by Me)
+
+## Overview
+This project is a simple AI chatbot using vector embeddings and semantic search.
+
+## How it Works
+- Converts text into vectors
+- Compares user query with stored data
+- Returns most similar answer
+
+## Tech Used
+- Python
+- Sentence Transformers
+- Endee (Vector Database)
+
+## Run
+pip install sentence-transformers  
+python rag_app.py  
+
+## Endee Usage
+Endee is used as a vector database to store embeddings and retrieve similar results.
