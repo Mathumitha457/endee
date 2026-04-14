@@ -161,3 +161,15 @@ python rag_app.py
 
 ## Endee Usage
 Endee is used as a vector database to store embeddings and retrieve similar results.
+
+## Endee Integration
+
+In this project, vector embeddings are generated and stored in Endee (simulated).
+
+Endee is used for:
+- Vector storage
+- Similarity search
+- Fast retrieval
+
+## Note
+This is a prototype project demonstrating how Endee can be used in AI applications like chatbots.
